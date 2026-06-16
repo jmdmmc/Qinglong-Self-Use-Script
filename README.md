@@ -50,7 +50,7 @@
 
 ```Plain Text
 # 克隆仓库到青龙脚本目录
-git clone https://github.com/你的用户名/你的仓库名.git /ql/scripts/qinglong-self
+git clone https://github.com/jmdmmc/Qinglong-Self-Use-Script.git /ql/scripts/qinglong-self
 
 # 赋予执行权限
 chmod -R 755 /ql/scripts/qinglong-self
@@ -60,8 +60,7 @@ chmod -R 755 /ql/scripts/qinglong-self
 
 青龙面板 → 订阅管理 → 新建订阅，填写以下信息：
 
-- **订阅链接**：`https://github.com/你的用户名/你的仓库名`
-
+- **订阅链接**：`https://github.com/jmdmmc/Qinglong-Self-Use-Script
 - **分支**：main
 
 - **运行模式**：定时更新
@@ -105,5 +104,3 @@ cd /ql/scripts/qinglong-self && git pull
 本项目基于 **MIT 开源协议** 开源，可自由学习、二次修改，转载、引用请保留原作者开源声明，禁止商用牟利。
 
 **免责声明**：本仓库所有脚本仅作技术交流用途，任何违规使用产生的一切风险与后果，均由使用者自行承担，与作者无关。
-
-> （注：文档部分内容可能由 AI 生成）
