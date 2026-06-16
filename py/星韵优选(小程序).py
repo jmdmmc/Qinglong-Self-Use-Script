@@ -1,3 +1,12 @@
+# 此脚本为Python语言编写 运行请先安装好requests依赖！
+# 微信小程序
+# 入口: #小程序://星韵优选/kt8xm5WOSI0Z6ri
+# 环境变量配置（环境变量名: xyyx)(变量值：fb1f1efba29f93b14a0bf766xxxxxxxxxx)
+# 抓包gzpengru.weimbo.com 请求里面的headers里的3rdsession的值
+# 变量名：xyyx
+# 变量值: fb1f1efba29f93b14a0bf766xxxxxxxxxx
+# 多号换行或者&隔开变量值
+
 import requests
 import json
 import time
